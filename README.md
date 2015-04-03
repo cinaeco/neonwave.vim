@@ -11,4 +11,4 @@ Our recommendation is to use [justinmk's vim-syntax-extras](https://github.com/j
 
 
 ##Installation
-You may install this with Vundle as you would any other plugin. If you don't use Vundle, you may instead just stick the ```neonwave.vim``` file in your colors directory and set your highlight to it in your vimrc with ```colorscheme neonwave```.
+You may install this with [Vundle](https://github.com/gmarik/Vundle.vim) as you would any other plugin. If you don't use Vundle, you may instead just stick the ```neonwave.vim``` file in your colors directory and set your highlight to it in your vimrc with ```colorscheme neonwave```.
