@@ -66,7 +66,7 @@ hi Label             ctermfg=201   ctermbg=NONE   cterm=bold
 hi LineNr            ctermfg=36    ctermbg=233    cterm=NONE
 hi Macro             ctermfg=69    ctermbg=NONE   cterm=bold
 hi MatchParen        ctermfg=50    ctermbg=39     cterm=NONE
-hi ModeMsg           ctermfg=46    ctermbg=232    cterm=bold
+hi ModeMsg           ctermfg=39    ctermbg=232    cterm=bold
 hi MoreMsg           ctermfg=46    ctermbg=NONE   cterm=bold
 hi NonText           ctermfg=201   ctermbg=NONE   cterm=NONE
 hi Normal            ctermfg=105   ctermbg=234    cterm=NONE
