@@ -6,9 +6,8 @@ Our recommendation is to use [justinmk's vim-syntax-extras](https://github.com/j
 
 
 ##ギャラリー
-![Preview2](https://cloud.githubusercontent.com/assets/8389374/6789587/6482421e-d16f-11e4-9e15-48a7d0e99a84.png)
-![multi-window](https://cloud.githubusercontent.com/assets/8389374/6789767/e11604d6-d170-11e4-8472-1d9e32ae2caa.png)
-
+![screen](https://cloud.githubusercontent.com/assets/8389374/6989674/3b515d5e-da24-11e4-8b71-681ab6fadbdd.png)
+![screenshot_fri-apr-3_17-20-29-cdt-2015](https://cloud.githubusercontent.com/assets/8389374/6989776/ce026796-da25-11e4-9d0f-0c535f1e7c40.png)
 
 ##Installation
 You may install this with [Vundle](https://github.com/gmarik/Vundle.vim) as you would any other plugin. If you don't use Vundle, you may instead just stick the ```neonwave.vim``` file in your colors directory and set your highlight to it in your vimrc with ```colorscheme neonwave```.
