@@ -76,7 +76,6 @@ hi Operator          ctermfg=39    ctermbg=NONE   cterm=NONE
 " For matching over X length of chars; non-essential.
 " That is, if you have a match property in your vimrc.
 hi OverLength        ctermfg=46    ctermbg=234    cterm=bold
-
 hi PMenu             ctermfg=36    ctermbg=233    cterm=NONE
 hi PMenuSel          ctermfg=75    ctermbg=235    cterm=NONE
 hi PMenuSbar         ctermfg=NONE  ctermbg=232    cterm=NONE
@@ -102,6 +101,16 @@ hi Statement         ctermfg=201   ctermbg=NONE   cterm=bold
 hi StorageClass      ctermfg=45    ctermbg=NONE   cterm=bold
 hi String            ctermfg=171   ctermbg=NONE   cterm=NONE
 hi Structure         ctermfg=45    ctermbg=NONE   cterm=bold
+hi shHereDoc         ctermfg=205   ctermbg=NONE   cterm=NONE
+hi shShellVariables  ctermfg=207   ctermbg=NONE   cterm=NONE
+hi shSnglCase        ctermfg=201   ctermbg=NONE   cterm=NONE
+hi shVariable        ctermfg=45    ctermbg=NONE   cterm=bold
+hi shDerefVar        ctermfg=69    ctermbg=NONE   cterm=NONE
+hi shDerefDelim      ctermfg=171   ctermbg=NONE   cterm=NONE
+hi shDerefOp         ctermfg=207   ctermbg=NONE   cterm=NONE
+hi shDeref           ctermfg=69    ctermbg=NONE   cterm=NONE
+hi shOperator        ctermfg=171   ctermbg=NONE   cterm=NONE
+hi shTestOpr         ctermfg=39    ctermbg=NONE   cterm=NONE
 hi TabLine           ctermfg=105   ctermbg=234    cterm=NONE
 hi TabLineFill       ctermfg=105   ctermbg=236    cterm=NONE
 hi TabLineSel        ctermfg=32    ctermbg=233    cterm=bold
