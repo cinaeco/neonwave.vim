@@ -76,6 +76,7 @@ hi Operator          ctermfg=39    ctermbg=NONE   cterm=NONE
 " For matching over X length of chars; non-essential.
 " That is, if you have a match property in your vimrc.
 hi OverLength        ctermfg=46    ctermbg=234    cterm=bold
+hi perlIdentifier    ctermfg=45    ctermbg=NONE   cterm=NONE
 hi PMenu             ctermfg=36    ctermbg=233    cterm=NONE
 hi PMenuSel          ctermfg=75    ctermbg=235    cterm=NONE
 hi PMenuSbar         ctermfg=NONE  ctermbg=232    cterm=NONE
