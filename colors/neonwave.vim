@@ -78,6 +78,7 @@ hi Operator          ctermfg=44    ctermbg=NONE   cterm=NONE
 hi OverLength        ctermfg=46    ctermbg=234    cterm=bold
 
 hi perlIdentifier    ctermfg=39    ctermbg=NONE   cterm=NONE
+hi perlNumber        ctermfg=30    ctermbg=NONE   cterm=NONE
 hi perlOperator      ctermfg=45    ctermbg=NONE   cterm=NONE
 hi PMenu             ctermfg=36    ctermbg=233    cterm=NONE
 hi PMenuSel          ctermfg=75    ctermbg=235    cterm=NONE
