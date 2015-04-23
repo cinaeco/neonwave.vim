@@ -71,7 +71,7 @@ hi MoreMsg           ctermfg=46    ctermbg=NONE   cterm=bold
 hi NonText           ctermfg=201   ctermbg=NONE   cterm=NONE
 hi Normal            ctermfg=105   ctermbg=234    cterm=NONE
 hi Number            ctermfg=31    ctermbg=NONE   cterm=NONE
-hi Operator          ctermfg=44    ctermbg=NONE   cterm=NONE
+hi Operator          ctermfg=39    ctermbg=NONE   cterm=NONE
 
 " For matching over X length of chars; non-essential.
 " That is, if you have a match property in your vimrc.
