@@ -48,6 +48,7 @@ hi Character         ctermfg=207   ctermbg=NONE   cterm=NONE
 hi Conditional       ctermfg=201   ctermbg=NONE   cterm=bold
 hi Comment           ctermfg=244   ctermbg=NONE   cterm=NONE
 hi CursorLine        ctermfg=NONE  ctermbg=235    cterm=NONE
+hi cursorcolumn      ctermfg=NONE  ctermbg=235    cterm=NONE
 hi CursorLineNr      ctermfg=45    ctermbg=235    cterm=bold
 hi Define            ctermfg=61    ctermbg=NONE   cterm=NONE
 hi DefinedName       ctermfg=200   ctermbg=NONE   cterm=NONE
