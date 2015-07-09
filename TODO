@@ -9,10 +9,8 @@ DiffAdd
 DiffChange
 DiffDelete
 DiffText
-FoldColumn
-Folded
 Ignore
-SpellCap     # YCM says this is also for YcmWarningSection, 
+SpellCap     # YCM says this is also for YcmWarningSection,
              # but I do not extensively use YCM to notice where this lies.
 SpellRare
 SpellLocal

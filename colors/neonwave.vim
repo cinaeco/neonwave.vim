@@ -58,6 +58,8 @@ hi Error             ctermfg=196   ctermbg=232    cterm=bold
 hi ErrorMsg          ctermfg=196   ctermbg=232    cterm=bold
 hi Exception         ctermfg=201   ctermbg=NONE   cterm=bold
 hi Float             ctermfg=37    ctermbg=NONE   cterm=NONE
+hi FoldColumn        ctermfg=33    ctermbg=233    cterm=NONE
+hi Folded            ctermfg=33    ctermbg=NONE   cterm=NONE
 hi Function          ctermfg=38    ctermbg=NONE   cterm=NONE
 hi Identifier        ctermfg=201   ctermbg=NONE   cterm=NONE
 hi Include           ctermfg=69    ctermbg=NONE   cterm=bold
