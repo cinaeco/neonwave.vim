@@ -2,7 +2,7 @@
 "
 "
 " Name:               NeonWave
-" Author:             SacredCrumb
+" Author:             Sclarki
 "
 " Just as a side note, themes like these are generally what happens
 " when you go off on Vaporwave binges >.>
