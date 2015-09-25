@@ -64,6 +64,7 @@ hi Function          ctermfg=38    ctermbg=NONE   cterm=NONE
 hi Identifier        ctermfg=201   ctermbg=NONE   cterm=NONE
 hi Include           ctermfg=69    ctermbg=NONE   cterm=bold
 hi IncSearch         ctermfg=232   ctermbg=33     cterm=NONE
+hi jsonKeyword       ctermfg=45    ctermbg=NONE   cterm=bold
 hi Keyword           ctermfg=201   ctermbg=NONE   cterm=bold
 hi Label             ctermfg=201   ctermbg=NONE   cterm=bold
 hi LineNr            ctermfg=36    ctermbg=233    cterm=NONE
@@ -125,7 +126,7 @@ hi Title             ctermfg=201   ctermbg=NONE   cterm=NONE
 hi Todo              ctermfg=231   ctermbg=201    cterm=bold
 hi Type              ctermfg=45    ctermbg=NONE   cterm=bold
 hi Typedef           ctermfg=45    ctermbg=NONE   cterm=bold
-hi Underlined        ctermfg=231   ctermbg=239    cterm=underline
+hi Underlined        ctermfg=69    ctermbg=NONE   cterm=underline
 hi VertSplit         ctermfg=105   ctermbg=236    cterm=NONE
 hi Visual            ctermfg=111   ctermbg=237    cterm=NONE
 hi WarningMsg        ctermfg=254   ctermbg=1      cterm=NONE
