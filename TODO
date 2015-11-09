@@ -4,7 +4,6 @@ Add colours for the following:
 # All of the GUI syntax for gVim!! One day..
 # Also, find out if whether the Japenese text in the README is accurate. :S
 
-Cursor
 DiffAdd
 DiffChange
 DiffDelete
@@ -18,8 +17,3 @@ WildMenu
 VisualNOS
 
 MatchParen   # This one exists, however I'm not *quite* sure how I want it.
-
-
-#######
-Most of these, if not all, I am either only vaguely familiar with. There are others I am leaving out,
-I just don't know what all would be wanted/needed.
