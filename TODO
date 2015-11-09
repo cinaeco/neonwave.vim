@@ -1,19 +1,18 @@
+Determine the accuracy of J-text in README
+Try to make the colour file look ... better. More organised.
+
 Add colours for the following:
 
-#
-# All of the GUI syntax for gVim!! One day..
-# Also, find out if whether the Japenese text in the README is accurate. :S
-
-DiffAdd
-DiffChange
-DiffDelete
-DiffText
-Ignore
-SpellCap     # YCM says this is also for YcmWarningSection,
-             # but I do not extensively use YCM to notice where this lies.
-SpellRare
-SpellLocal
-WildMenu
-VisualNOS
-
-MatchParen   # This one exists, however I'm not *quite* sure how I want it.
+* DiffAdd
+* DiffChange
+* DiffDelete
+* DiffText
+* Ignore
+* SpellCap     # YCM says this is also for YcmWarningSection,
+               # but I do not extensively use YCM to notice where this lies.
+* SpellRare
+* SpellLocal
+* WildMenu
+* VisualNOS
+* 
+* MatchParen   # This one exists, however I'm not *quite* sure how I want it.
