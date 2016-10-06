@@ -1,3 +1,10 @@
+-----
+####Currently in minor hiatus
+
+For future users or commiters of and to this theme, I am not actively working on this project. I still review pull requests from others when they are made, but I may not find the time right away. The current - and possibly outdated - list of things that I know need to be done are in the [TODO](https://github.com/Sclarki/neonwave.vim/blob/master/TODO) list.
+
+-----
+
 #ne͟͠o̷͘̕ņ̸̕͟͡w̴a̷v̙͖̗͓̕e͏̗̞.̷͏͙͔̥͉̖̗̳͇͙̠̠͓̝̲ͅ活力
 Have you ever been engaged in 飲料の消費 and thought to yourself, "The 燃費 here is far too irregular"? Well, look no further to reinforce your failing power converter! Sclarkis Ltd. sports a *very* ~~retro~~ modern-styled defusing system that lets you get every quantum bit out of your energy purchase! *~~As a side-effect of this technological breakthrough in engine conversion, your computer consoles may experience 断̴続͏̢̡͞的̴̢́な̴̷̧̕͞妨҉̸̀害̴̵~~*
 
