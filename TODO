@@ -1,8 +1,11 @@
-Determine the accuracy of J-text in README
-Try to make the colour file look ... better. More organised.
-!! Make the GUI colours _a little less_ "eye bleed-y".
+Everything that needs doing at some point is listed here.
 
-Add colours for the following:
+* Determine accuracy of Japanese text translations in the README
+* Organise the file of colour specs to be less (or more) crazy
+* Adjust the GUI colours so they look appropriate for full colour support and not a bad mock-up
+
+
+Add colours for:
 
 * DiffAdd
 * DiffChange
