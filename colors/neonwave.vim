@@ -29,7 +29,7 @@ if v:version >= 700
 		" Meaning, Vim is set as your default editor. Or through a keyboard
 		" shortcut like ./x-terminal-emulator --command=vim
 		" (Oh, the irony.)
-		
+
 		" If you do not need it then do with it as you wish.
 		set t_Co=256
 		syntax reset
@@ -47,8 +47,9 @@ hi Constant          ctermfg=33    ctermbg=NONE  gui=bold       cterm=bold      
 hi Character         ctermfg=207   ctermbg=NONE  gui=NONE       cterm=NONE      guifg=#ff5fff  guibg=NONE
 hi Conditional       ctermfg=201   ctermbg=NONE  gui=bold       cterm=bold      guifg=#ff00ff  guibg=NONE
 hi Comment           ctermfg=244   ctermbg=NONE  gui=NONE       cterm=NONE      guifg=#808080  guibg=NONE
+hi ColorColumn       ctermfg=NONE  ctermbg=235   gui=NONE       cterm=NONE      guifg=NONE     guibg=#262626
 hi CursorLine        ctermfg=NONE  ctermbg=235   gui=NONE       cterm=NONE      guifg=NONE     guibg=#262626
-hi cursorcolumn      ctermfg=NONE  ctermbg=235   gui=NONE       cterm=NONE      guifg=NONE     guibg=#262626
+hi CursorColumn      ctermfg=NONE  ctermbg=235   gui=NONE       cterm=NONE      guifg=NONE     guibg=#262626
 hi CursorLineNr      ctermfg=45    ctermbg=235   gui=bold       cterm=bold      guifg=#00d7ff  guibg=#262626
 hi Define            ctermfg=61    ctermbg=NONE  gui=NONE       cterm=NONE      guifg=#5f5faf  guibg=NONE
 hi DefinedName       ctermfg=200   ctermbg=NONE  gui=NONE       cterm=NONE      guifg=#ff00d7  guibg=NONE
@@ -76,8 +77,8 @@ hi NonText           ctermfg=201   ctermbg=NONE  gui=NONE       cterm=NONE      
 hi Normal            ctermfg=105   ctermbg=234   gui=NONE       cterm=NONE      guifg=#8787ff  guibg=#1c1c1c
 hi Number            ctermfg=31    ctermbg=NONE  gui=NONE       cterm=NONE      guifg=#0087af  guibg=NONE
 hi Operator          ctermfg=39    ctermbg=NONE  gui=NONE       cterm=NONE      guifg=#00afff  guibg=NONE
-                                                               
-                                                               
+
+
 " For matching over X length of chars; non-essential.
 " That is, if you have a match property in your vimrc.
 hi OverLength        ctermfg=46    ctermbg=234   gui=bold       cterm=bold      guifg=#00ff00  guibg=#1c1c1c
